@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>양현일</title>
 </head>
 <body>
 공동 프로젝트 작업중 입니다.
