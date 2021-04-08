@@ -29,7 +29,7 @@ if (user_id == null){</script>
  </div><br>
  <script>} else {
 	 alert("이미 로그인 된 상태입니다.");
- 	document.location.href="./board_list.jsp";
+ 	document.location.href="./이건희.jsp";
  }</script>
  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script> 
  <script src="js/bootstrap.js"></script>
