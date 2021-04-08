@@ -8,7 +8,7 @@
 <h1>
 	Hello world!  
 </h1>
- 바꾸겠습니다. 
+뽑아도 뽑히지않는 잡초맨입니다.
 <P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
