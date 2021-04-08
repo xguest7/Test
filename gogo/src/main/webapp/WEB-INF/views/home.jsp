@@ -1,18 +1,14 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <%@ page session="false" %>
 <html>
 <head>
-	<title>홈</title>
+	<title>Home</title>
 </head>
 <body>
 <h1>
-	안녕 세계!
+	Hello world!  
 </h1>
 
-<P>  이 서버의 시간은 ${serverTime}. </P>
-
-<p> 이 문장도 추가했음 <p>
+<P>  The time on the server is ${serverTime}. </P>
 </body>
 </html>
